@@ -7,7 +7,7 @@
   
 <h2>Team Id:</h2> <ul>PNT2022TMID15562</ul>
 
-<h2># Nutrition Assistant Application</h2>
+# Nutrition Assistant Application
 <!--Batch:  -->
 ## Category: Cloud App Development
 
