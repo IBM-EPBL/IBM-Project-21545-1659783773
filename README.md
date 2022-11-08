@@ -4,8 +4,7 @@
   <h2 align="center"> University Admit Eligibility Predictor <br></h2>
 
   </div>
-  
-<h2>Team Id:</h2> <ul>PNT2022TMID15562</ul>
+ 
 
 # Nutrition Assistant Application
 <!--Batch:  -->
