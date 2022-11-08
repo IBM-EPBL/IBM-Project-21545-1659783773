@@ -15,19 +15,19 @@
 ![IBM Container Registry](https://img.shields.io/badge/IBM%20Container%20Registry-%3776AB.svg?style=for-the-badge&logo=ibm&logoColor=white&color=563D7C)
 
 
-### Team ID : PNT2022TMID37397
+### Team ID : PNT2022TMID15536
 
-### Batch No: B7 - 1A3E
+### Batch No: B11 - 5A1E
 
 ### Team Leader : 
-FADAL RAZIN .S
+RAGULRAJ D
 
 ### Team members : 
-FAUWAAZ ASHAAL
+KAAVIYA A
 
-BASHEER AHMED
+MOUNIKA A
 
-HYDER ALI
+SANTHIYA P
 
 ### Checklist:
 
@@ -52,12 +52,12 @@ HYDER ALI
   - [x] Milestone & Activity List 
   - [x] Sprint Delivery Plan
   
-- [x] Setting Up of Environment
+- [ ] Setting Up of Environment
   - [x] Create Flask Project 
-  - [x] Create IBM Cloud Account
-  - [x] Install IBM Cloud CLI 
-  - [x] Docker CLI Installation
-  - [x] Create an Account in SendGrid 
+  - [ ] Create IBM Cloud Account
+  - [ ] Install IBM Cloud CLI 
+  - [ ] Docker CLI Installation
+  - [ ] Create an Account in SendGrid 
   - [ ] Create an Account in Nutrition API
 
 - [ ] Project Development Phase
