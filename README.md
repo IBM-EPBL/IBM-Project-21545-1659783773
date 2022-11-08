@@ -9,7 +9,7 @@
 
 # Nutrition Assistant Application
 <!--Batch:  -->
-## Category: Cloud App Development
+## Domain: Cloud App Development
 
 ### Team ID : PNT2022TMID15536
 
